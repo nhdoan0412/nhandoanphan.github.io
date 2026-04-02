@@ -21,13 +21,9 @@ My favorite programming language is **Python** because it is simple and powerful
 ---
 
 ## 🧾 Code Example
-Here is some Python code:
+Here is a simple Python function I like to use: `def hello(): print("Hello World")`
 
-```python
-def hello():
-    print("Hello World")
-
-
+---
 
 ## More About Me
 
