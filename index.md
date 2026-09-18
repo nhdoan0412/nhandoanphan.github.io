@@ -57,7 +57,7 @@ An LLM-powered pipeline that converts free-form PDF resumes into validated struc
 
 The system separates PDF extraction, model invocation, and schema validation into modular components so the pipeline can be extended toward candidate/job matching.
 
-[View the repository](https://github.com/nhdoan0412/Project)
+[View the repository](https://github.com/nhdoan0412/ai-resume-parser)
 
 ---
 
