@@ -61,6 +61,25 @@ The system separates PDF extraction, model invocation, and schema validation int
 
 ---
 
+### Product Description–Based Price Prediction
+
+**Python · NLP · TF-IDF · Random Forest · scikit-learn**
+
+Four-person machine-learning project predicting Amazon electronics prices from product descriptions.
+
+Highlights:
+
+- 1,400+ product listings,
+- TF-IDF text feature extraction,
+- sparse feature representation,
+- Random Forest regression,
+- **R² = 0.72**,
+- mean absolute error below **$150**.
+
+[View the public project mirror](https://github.com/nhdoan0412/COGS108_Repo)
+
+---
+
 ### Interactive Outpatient Referral Research
 
 **Python · scikit-learn · TF-IDF · Logistic Regression · SQLite**
@@ -95,7 +114,7 @@ Highlights:
 ## Technical Toolkit
 
 **Languages:** Python, JavaScript, Java, C++, SQL, HTML/CSS  
-**AI / Data:** LangChain, Gemini, scikit-learn, pandas, Pydantic  
+**AI / Data:** LangChain, Gemini, scikit-learn, pandas, Pydantic, TF-IDF  
 **Software Engineering:** Git, GitHub Actions, Jasmine, Playwright, Docker, REST APIs  
 **Current interests:** LLM systems, efficient inference, applied ML, backend engineering, and software reliability
 
