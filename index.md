@@ -65,16 +65,17 @@ The system separates PDF extraction, model invocation, and schema validation int
 
 **Python · NLP · TF-IDF · Random Forest · scikit-learn**
 
-5-person COGS 108 machine-learning project investigating whether product-description language can predict electronics pricing.
+A **5-person COGS 108 team project** investigating whether product-description language can predict electronics pricing. The team split work across data preparation, EDA, visualization, model development, interpretation, and the final presentation.
 
 My contributions included:
 
+- refining the research question,
 - sourcing and cleaning the dataset,
 - data preprocessing,
 - TF-IDF feature extraction,
 - exploratory data analysis,
-- model development,
-- final report and presentation refinement.
+- contributing to model development,
+- refining the final report and presentation.
 
 Results:
 
