@@ -1,1 +1,4 @@
 PRIVATE.txt
+.DS_Store
+.env
+.env.*

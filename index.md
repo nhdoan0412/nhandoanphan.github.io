@@ -1,51 +1,107 @@
-# 👋 Nhan Doan's User Page
+# Nhan Doan
 
-## About Me
-*Hi! I'm Nhan Doan (Nick), a Math-CS student at UCSD who enjoys building projects with Python and Java.*
+**Mathematics–Computer Science @ UC San Diego**  
+Software Engineering · Applied AI/ML · Research
 
----
-
-## Favorite Programming Language
-My favorite programming language is **Python** because it is simple and powerful.
+I build software and machine-learning systems with a focus on practical engineering: structured APIs, testing, data pipelines, LLM integrations, and reproducible experiments.
 
 ---
 
-## 📸 Picture
-![Cute image](image.jpg)
+## Featured Projects
+
+### Codekata — Code Typing Game
+
+**JavaScript · Jasmine · Playwright · Docker · GitHub Actions**
+
+An 11-person software-engineering project for practicing HTML/CSS syntax through interactive typing challenges and live rendering.
+
+My contributions include:
+
+- game-state logic for idle, active, paused, and complete states,
+- sandboxed iframe rendering for HTML/CSS previews,
+- WPM, accuracy, error-count, and elapsed-time metrics,
+- end-of-round results,
+- selectable themes,
+- browser practice reminders,
+- unit tests and project documentation.
+
+[View the project on GitHub](https://github.com/cse110-sp26-group23/cse110-sp26-group23)
 
 ---
 
-## 💬 Quote
-> "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
+### VitaSync — AI Referral Assistant
+
+**Python · Fetch.ai uAgents · ASI-1 · REST APIs**
+
+A hackathon project exploring an AI-assisted referral workflow.
+
+I contributed agent/backend integration for:
+
+- structured referral analysis,
+- specialty detection,
+- urgency classification,
+- missing-information detection,
+- preparation task generation,
+- patient-friendly explanations,
+- English, Vietnamese, and Spanish output.
+
+[View VitaSync on GitHub](https://github.com/skyeeee04/med-hub)
 
 ---
 
-## 🧾 Code Example
-Here is a simple Python function I like to use: `def hello(): print("Hello World")`
+### AI Resume Parser
+
+**Python · LangChain · Gemini 1.5 Flash · Pydantic · PyMuPDF**
+
+An LLM-powered pipeline that converts free-form PDF resumes into validated structured JSON.
+
+The system separates PDF extraction, model invocation, and schema validation into modular components so the pipeline can be extended toward candidate/job matching.
+
+[View the repository](https://github.com/nhdoan0412/Project)
 
 ---
 
-## More About Me
+### Interactive Outpatient Referral Research
 
-If you want to explore resources that I often use as a programmer, I frequently visit [GitHub](https://github.com) and [Stack Overflow](https://stackoverflow.com) to learn, debug, and improve my coding skills.
+**Python · scikit-learn · TF-IDF · Logistic Regression · SQLite**
 
-You can also jump back to my [About Me](#about-me) or revisit my [Favorite Programming Language](#favorite-programming-language) to better understand my background.
+Research-oriented experiment infrastructure for evaluating referral routing.
 
-Within this repository, you can check another file here: [README](README.md). 
+The current implementation includes a classical text-classification baseline and experiment tracking for prediction confidence, correctness, latency, number of questions, and future token-cost comparisons.
+
+[View the repository](https://github.com/nhdoan0412/referral_research)
 
 ---
 
-### 📚 My Learning Journey
+### League of Legends Match Prediction
 
-When learning something new in programming, I usually follow this process:
+**Python · pandas · scikit-learn · Random Forest · Statistical Testing**
 
-1. Understand the core concept  
-2. Practice with small coding problems  
-3. Apply it in a project  
-4. Reflect and improve  
+Analyzed 2022 professional League of Legends data to study Blue-side advantage and predict match outcomes using information available at 10 minutes.
 
-I also enjoy working with different technologies:
+Highlights:
 
-- Python for scripting and data science  
-- Java for object-oriented programming  
-- C++ for data structures and algorithms  
+- 12,529 professional matches after cleaning,
+- hypothesis and missingness testing,
+- leakage-aware train/test splitting by game,
+- Logistic Regression baseline,
+- Random Forest with feature engineering and GridSearchCV,
+- fairness analysis across Blue and Red side.
+
+[View the project](https://github.com/nhdoan0412/LoL-dsc-prj)
+
+---
+
+## Technical Toolkit
+
+**Languages:** Python, JavaScript, Java, C++, SQL, HTML/CSS  
+**AI / Data:** LangChain, Gemini, scikit-learn, pandas, Pydantic  
+**Software Engineering:** Git, GitHub Actions, Jasmine, Playwright, Docker, REST APIs  
+**Current interests:** LLM systems, efficient inference, applied ML, backend engineering, and software reliability
+
+---
+
+## Contact
+
+- GitHub: [@nhdoan0412](https://github.com/nhdoan0412)
+- Email: [nhdoan@ucsd.edu](mailto:nhdoan@ucsd.edu)
