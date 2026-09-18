@@ -61,22 +61,31 @@ The system separates PDF extraction, model invocation, and schema validation int
 
 ---
 
-### Product Description–Based Price Prediction
+### Amazon Electronics Price Prediction
 
 **Python · NLP · TF-IDF · Random Forest · scikit-learn**
 
-Four-person machine-learning project predicting Amazon electronics prices from product descriptions.
+5-person COGS 108 machine-learning project investigating whether product-description language can predict electronics pricing.
 
-Highlights:
+My contributions included:
 
-- 1,400+ product listings,
-- TF-IDF text feature extraction,
-- sparse feature representation,
-- Random Forest regression,
-- **R² = 0.72**,
-- mean absolute error below **$150**.
+- sourcing and cleaning the dataset,
+- data preprocessing,
+- TF-IDF feature extraction,
+- exploratory data analysis,
+- model development,
+- final report and presentation refinement.
 
-[View the public project mirror](https://github.com/nhdoan0412/amazon-product-price-prediction)
+Results:
+
+- 1,465 Amazon listings,
+- TF-IDF with unigrams and bigrams,
+- Random Forest tuned with GridSearchCV,
+- **R² = 0.63**,
+- **MAE = $28.13**,
+- **RMSE = $80.27**.
+
+[View the project](https://github.com/nhdoan0412/amazon-product-price-prediction)
 
 ---
 
