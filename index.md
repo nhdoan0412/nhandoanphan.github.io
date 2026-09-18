@@ -76,7 +76,7 @@ Highlights:
 - **R² = 0.72**,
 - mean absolute error below **$150**.
 
-[View the public project mirror](https://github.com/nhdoan0412/COGS108_Repo)
+[View the public project mirror](https://github.com/nhdoan0412/amazon-product-price-prediction)
 
 ---
 
