@@ -1,60 +1,52 @@
-# Hi, I'm Nhan Doan 👋
+# Hi, I'm Nhan Doan (Nick) 👋
 
 **Mathematics–Computer Science @ UC San Diego**  
-Software Engineering · Applied AI/ML · Research
+**Software Engineering · Applied AI/ML · Research**
 
-I build software and machine-learning systems with an emphasis on practical engineering: APIs, testing, structured LLM workflows, data pipelines, and reproducible experiments.
-
-## What I'm Working On
-
-- Research-oriented experiments for efficient and interactive outpatient referral routing
-- Applied LLM systems with structured outputs and evaluation
-- Software engineering projects with testing, CI/CD, and modular architecture
+I build software and machine-learning systems with an emphasis on practical engineering: modular architecture, APIs, testing, data pipelines, structured LLM workflows, and reproducible experiments.
 
 ## Featured Projects
 
-### Codekata — Code Typing Game
+### 🧠 [Codekata — Code Typing Game](https://github.com/cse110-sp26-group23/cse110-sp26-group23)
 **JavaScript · Jasmine · Playwright · Docker · GitHub Actions**
 
-11-person software-engineering project for interactive HTML/CSS typing practice. My contributions include the game engine, sandboxed iframe rendering, performance metrics, end-screen flow, themes, reminders, tests, and documentation.
+11-person software-engineering project for interactive HTML/CSS typing practice. My contributions include the game-state engine, sandboxed iframe rendering, WPM/accuracy/error metrics, end-screen flow, themes, practice reminders, tests, and documentation.
 
-→ [Repository](https://github.com/cse110-sp26-group23/cse110-sp26-group23)
-
-### VitaSync — AI Referral Assistant
+### 🏥 [VitaSync — AI Referral Assistant](https://github.com/skyeeee04/med-hub)
 **Python · Fetch.ai uAgents · ASI-1 · REST APIs**
 
-Hackathon project exploring an AI-assisted referral workflow with structured referral analysis, specialty and urgency detection, missing-information checks, task generation, and multilingual patient-facing explanations.
+Hackathon prototype exploring an AI-assisted referral workflow. I contributed agent/backend integration for structured referral analysis, specialty and urgency detection, missing-information checks, preparation tasks, and multilingual patient-facing explanations.
 
-→ [Repository](https://github.com/skyeeee04/med-hub)
-
-### AI Resume Parser
+### 📄 [AI Resume Parser](https://github.com/nhdoan0412/ai-resume-parser)
 **Python · LangChain · Gemini 1.5 Flash · Pydantic · PyMuPDF**
 
-Pipeline that extracts PDF resume text and converts unstructured content into validated structured JSON.
+LLM-powered pipeline that extracts text from PDF resumes and converts unstructured content into validated structured JSON through a modular extraction, prompting, and schema-validation workflow.
 
-→ [Repository](https://github.com/nhdoan0412/Project)
-
-### Interactive Outpatient Referral Research
+### 🔬 [Interactive Outpatient Referral Research](https://github.com/nhdoan0412/referral_research)
 **Python · scikit-learn · TF-IDF · Logistic Regression · SQLite**
 
-Experimental codebase for referral-routing research, including a classical NLP baseline and experiment tracking for accuracy, confidence, latency, question count, and future inference-cost comparisons.
+Research-oriented experiment codebase for referral routing, including a classical NLP baseline and infrastructure for comparing accuracy, confidence, latency, question count, and future inference-cost tradeoffs.
 
-→ [Repository](https://github.com/nhdoan0412/referral_research)
+### 🎮 [League of Legends Match Prediction](https://github.com/nhdoan0412/LoL-dsc-prj)
+**Python · pandas · scikit-learn · Random Forest · Statistical Testing**
 
-### League of Legends Match Prediction
-**Python · pandas · scikit-learn · Random Forest**
+Analyzed **12,529 professional matches** from the 2022 season, tested Blue-side advantage, and built leakage-aware models using information available at 10 minutes. The final Random Forest reached **66.68% accuracy** versus **62.62%** for the Logistic Regression baseline.
 
-Analyzed 12,529 professional matches from the 2022 season, tested Blue-side advantage, and built leakage-aware models using information available at 10 minutes.
+## Engineering Focus
 
-→ [Repository](https://github.com/nhdoan0412/LoL-dsc-prj)
+- **Software Engineering:** modular JavaScript systems, automated testing, CI/CD, Docker, REST APIs
+- **AI / LLM Systems:** LangChain, Gemini, structured outputs, agent workflows, evaluation
+- **Data / ML:** pandas, scikit-learn, feature engineering, statistical testing, model evaluation
+- **Research:** efficient interactive systems, uncertainty-aware workflows, reproducible experiments
 
 ## Technical Toolkit
 
-**Languages:** Python, JavaScript, Java, C++, SQL, HTML/CSS  
-**AI / Data:** LangChain, Gemini, scikit-learn, pandas, Pydantic  
-**Engineering:** Git, GitHub Actions, Jasmine, Playwright, Docker, REST APIs
+**Languages:** Python · JavaScript · Java · C++ · SQL · HTML/CSS  
+**AI / Data:** LangChain · Gemini · scikit-learn · pandas · Pydantic  
+**Engineering:** Git · GitHub Actions · Jasmine · Playwright · Docker · REST APIs
 
 ## Connect
 
-- GitHub: [@nhdoan0412](https://github.com/nhdoan0412)
-- Email: [nhdoan@ucsd.edu](mailto:nhdoan@ucsd.edu)
+- 📧 [nhdoan@ucsd.edu](mailto:nhdoan@ucsd.edu)
+- 💻 [GitHub Projects](https://github.com/nhdoan0412?tab=repositories)
+
